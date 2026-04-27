@@ -56,32 +56,36 @@ I enjoy solving real-world problems and building systems that are efficient and 
 ### 🔹 YellingAnt
 A Reddit-like community platform.
 
+🔗 https://yellingant.com
+
 - Community system with roles (owner, moderators, members)
 - Posts, comments, and moderation tools
 - Internal mod mail system
 - Advertisement system
-
-🔗 https://yellingant.com
 
 ---
 
 ### 🔹 SecurUs
 Safety and emergency platform.
 
+🔗 https://mysecurus.ca/
+
 - Secure authentication and user verification
 - Real-time tracking and panic alerts
 - Shopify marketplace integration
 - Admin dashboard
 
-🔗 https://mysecurus.ca/
-
 ---
 
-### 🔹 Red Bull Retail Execution Platform *(Confidential)*
+### 🔹 RedBull — Retail Execution Plan *(REP)*
 
-- Built high-performance APIs using Python Flask  
-- Optimized database queries (MySQL)  
-- Worked with AWS and deployment pipelines  
+🔗 https://rep.redbull.com
+
+- Developed high-performance REST APIs using Python (Flask)  
+- Optimized MySQL queries for improved performance  
+- Applied clean architecture principles (DRY, SRP)  
+- Created API documentation using Swagger (Flasgger)  
+- Assisted with deployment pipelines and AWS setup 
 
 ---
 
