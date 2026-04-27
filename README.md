@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuraiz-Khalid&show_icons=true&theme=default" />
-</p>
-
 # Hi, I'm Zuraiz Khalid 👋
 
 ## 💻 Software Engineer (Full-Stack)
